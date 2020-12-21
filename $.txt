@@ -1,6 +1,0 @@
-On branch master
-Untracked files:
-	$.txt
-
-nothing added to commit but untracked files present
-当前时间:2020年12月21日 21:45:22
